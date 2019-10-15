@@ -1,0 +1,4 @@
+#Tue Oct 15 15:46:53 WAT 2019
+base.0=H\:\\AndroidProject\\ProjectAge\\StartUp\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
